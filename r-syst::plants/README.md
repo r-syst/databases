@@ -1,4 +1,4 @@
-# plants
+# r-syst::plants
 Curated repository of releases of r-syst reference database for plants (fasta files, character files)  
 
 
