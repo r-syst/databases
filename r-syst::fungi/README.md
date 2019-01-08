@@ -1,5 +1,8 @@
 # r-syst::fungi
-Curated repository of releases of r-syst reference database for fungi (fasta files, character files, several amplified regions)  
+Curated repository of releases of r-syst reference database for fungi (fasta files, character files, several amplified regions)   
+
+**Contact:**  Valérie Laval, valerie.laval@inra.fr
+
 
 ## Amplified regions
 
