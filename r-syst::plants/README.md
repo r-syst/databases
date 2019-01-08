@@ -9,15 +9,19 @@ The projects are
 
 ## Types of files
 
-The datasets of each project are available as two files:
+The datasets of each project are available as three files:
 * a fasta file (with suffic .fas)
 * a character file (with suffix .char)
+* a pairiwse distance matrix (as an array) between sequences (with suffix .dissw)   
+
 
 For each specimen, the character file is an exel file with tab as separators within a row. Each column corresponds to a taxonomic rank
 * Order
 * Family
 * Genus
 * Species
+
+The cell _(i,j)_ of distance file contains the distance between sequences _i_ and _j_ computed from the score or pairwise local alignement (Smith-Waterman algorithm).
 
 
 ## Molecular atlas of trees in French Guiana
@@ -27,10 +31,11 @@ contact: alain.franc@inra.fr
 
 Reference: Caron & al. (under review)
 
-Two files can be downloaded 
+Three files can be downloaded 
 
 * French_Guiana_Trees_trnH.fas: fasta file of sequences of marker trnH 
 * French_Guiana_Trees_trnH.char: character file of same samples
+* French_Guiana_Trees_trnH.dissw: distance file of same samples
 
 
 
