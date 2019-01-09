@@ -35,7 +35,7 @@ The datasets for each amplified region are available as two files:
 * a fasta file (with suffix .fas)
 * a character file (with suffix .char)
 
-For each specimen, the character file s an exel file containing the sequence id of the fasta file and their corresponding taxonomic ranks. The exel file is a tab as separators within a row. 
+For each amplified region, the character file s an exel file containing the sequence id of the fasta file and their corresponding taxonomic ranks. The exel file is a tab as separators within a row. 
 Each column corresponds to a taxonomic rank, as follows:   
 * Order
 * Family
