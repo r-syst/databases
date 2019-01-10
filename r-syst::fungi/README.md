@@ -27,6 +27,9 @@ The projects which have supported the construction of the databases are
 * Lycovitis
 * Mycotek
 
+Strains of mycology collections of ANSES and INRA MIAE have been sequenced in these projects.
+
+
 ## Types of files
 
 There is one set of datasets per amplified region.   
