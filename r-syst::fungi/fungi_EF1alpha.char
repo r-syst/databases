@@ -62,7 +62,7 @@ C6_SI00358_17	Hypocreales	Nectriaceae	Fusarium	Fusarium_poae
 F10_SI00358	Hypocreales	Nectriaceae	Fusarium	Fusarium_tricinctum	
 AG-94-PYROFUS-F2.G02	Hypocreales	Nectriaceae	Pseudonectria	Pseudonectria_buxi	
 AG-96-PYROFUS-F2.H02	Capnodiales	Cladosporiaceae	Cladosporium	Cladosporium_sphaerospermum	
-AG-98-PYROFUS-F2.E01	Xylariales	Cladosporiaceae	Microdochium	Microdochium_bolleyi	
+AG-98-PYROFUS-F2.E01	Xylariales	Unknown	Microdochium	Microdochium_bolleyi	
 AG-100-PYROFUS-F2.E02	Pleosporales	Pleosporaceae	Epicoccum	Epicoccum_nigrum	
 AG-102-PYROFUS-F2.F02	Pleosporales	Leptosphaeriaceae	Leptosphaeria	Leptosphaeria_maculans	
 AG-111-PYROFUS-EF1-F1.G03	Hypocreales	Nectriaceae	Fusarium	Fusarium_cerealis	
@@ -78,7 +78,7 @@ AG-22374-EF1FusaBiogerF.B01	Hypocreales	Nectriaceae	Fusarium	Fusarium_solani
 C7_SI00358	Hypocreales	Nectriaceae	Fusarium	Fusarium_poae	
 AG-1-3-PYROFUS-EF1-F1.F01	Hypocreales	Nectriaceae	Fusarium	Fusarium_oxysporum	
 AG-02-Q-C58-PYROFUS-F2.B01	Capnodiales	Cladosporiaceae	Cladosporium	Cladosporium_delicatulum	
-AG-MB15 C.dest3-PYROFUS-EF1-F1.B05	Capnodiales	Glomerellaceae	Colletotrichum	Colletotrichum_destructivum	
+AG-MB15 C.dest3-PYROFUS-EF1-F1.B05	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_destructivum	
 AG-C33-EF1FusaBiogerF.B04	Hypocreales	Nectriaceae	Fusarium	Fusarium_equiseti	
 AG-C39-EF1FusaBiogerF.D04	Hypocreales	Nectriaceae	Fusarium	Fusarium_sambucinum	
 AG-LSV831-PYROFUS-F2.A05	Hypocreales	Nectriaceae	Fusarium	Fusarium_gerlachii	
@@ -86,7 +86,7 @@ AG-C62-PYROFUS-F2.G01	Helotiales	Sclerotiniaceae	Sclerotinia	Sclerotinia_sclerot
 AG-04-ssQ-C68-PYROFUS-F2.A03	Pleosporales	Leptosphaeriaceae	Leptosphaeria	Leptosphaeria_biglobosa	
 AG-C69-PYROFUS-EF1-F1.C01	Pleosporales	Leptosphaeriaceae	Leptosphaeria	Leptosphaeria_biglobosa	
 AG-C87-PYROFUS-F2.H01	Helotiales	Sclerotiniaceae	Botrytis	Botrytis_cinerea	
-AG-C. graminicola-PYROFUS-F2.H02	Helotiales	Glomerellaceae	Colletotrichum	Colletotrichum_orbiculare	
+AG-C. graminicola-PYROFUS-F2.H02	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_orbiculare	
 A7_FG5_EF1alpha_EF1BIOF	Hypocreales	Nectriaceae	Fusarium	Fusarium_graminearum	
 A4_FG7_EF1alpha_EF1BIOF	Hypocreales	Nectriaceae	Fusarium	Fusarium_graminearum	
 AG-LSV832-PYROFUS-F2.B05	Hypocreales	Nectriaceae	Fusarium	Fusarium_asiaticum	
@@ -97,7 +97,7 @@ AG-20-Q-Fmoni62-PYROFUS-F2.G02	Hypocreales	Nectriaceae	Fusarium	Fusarium_vertici
 AG-17-Q-Fsub69-PYROFUS-F2.E02	Hypocreales	Nectriaceae	Fusarium	Fusarium_subglutinans	
 AG-Fpro32-2-PYROFUS-F2.A02_141029105F 	Hypocreales	Nectriaceae	Fusarium	Fusarium_temperatum	
 AG-Fs15-PYROFUS-EF1-F1.H06	Hypocreales	Nectriaceae	Fusarium	Fusarium_sporotrichioides	
-AG-MB15 C.hig5-PYROFUS F2.B04	Hypocreales	Glomerellaceae	Colletotrichum	Colletotrichum_higginsianum	
+AG-MB15 C.hig5-PYROFUS F2.B04	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_higginsianum	
 AG-JN3-PYROFUS-EF1-F1.C01	Pleosporales	Leptosphaeriaceae	Leptosphaeria	Leptosphaeria_maculans	
 AG-LSV833-PYROFUS-F2.C05	Hypocreales	Nectriaceae	Fusarium	Fusarium_vorosii	
 AG-LSV834-PYROFUS-F2.D05	Hypocreales	Nectriaceae	Fusarium	Fusarium_acaciae-mearnsii	
@@ -110,34 +110,34 @@ AG-LSV840-PYROFUS-F2.B06	Hypocreales	Nectriaceae	Fusarium	Fusarium_brasilicum
 AG-LSV841-PYROFUS-F2.C06	Hypocreales	Nectriaceae	Fusarium	Fusarium_meridionale	
 AG-LSV843-PYROFUS-F2.D06	Hypocreales	Nectriaceae	Fusarium	Fusarium_ussurianum	
 AG-LSV844-PYROFUS-F2.E06	Hypocreales	Nectriaceae	Fusarium	Fusarium_nepalense	
-AG-MB15 A.pul-PYROFUS-EF1-F1.A03	Dothideales	Saccotheciaceae	Aureobasidium	Fusarium_nepalense	
+AG-MB15 A.pul-PYROFUS-EF1-F1.A03	Dothideales	Saccotheciaceae	Aureobasidium	Unknown	
 AG-MB15 B.acla-PYROFUS-EF1-F1.B03	Helotiales	Sclerotiniaceae	Botrytis	Botrytis_aclada	
 AG-MB15 B.cin1-PYROFUS-EF1-F1.E03	Helotiales	Sclerotiniaceae	Botrytis	Botrytis_cinerea	
-AG-MB15 C.hig3-PYROFUS-EF1-F1.F04	Helotiales	Glomerellaceae	Colletotrichum	Colletotrichum_higginsianum	
+AG-MB15 C.hig3-PYROFUS-EF1-F1.F04	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_higginsianum	
 AG-MB15 B.cinS2-PYROFUS F2.E10	Helotiales	Sclerotiniaceae	Botrytis	Botrytis_cinerea	
 AG-MB15 B.cinS3-PYROFUS-EF1-F1.F03	Helotiales	Sclerotiniaceae	Botrytis	Botrytis_pseudocinerea	
 AG-MB15 B.pae-PYROFUS F2.H02	Helotiales	Sclerotiniaceae	Botrytis	Botrytis_paeoniae	
 AG-MB15 B.por1-PYROFUS F2.H02	Helotiales	Sclerotiniaceae	Botrytis	Botrytis_porri	
-AG-MB15 C.cap-PYROFUS F2.F04	Helotiales	Glomerellaceae	Colletotrichum	Colletotrichum_truncatum	
-AG-MB15 C.clado-PYROFUS F2.D03	Capnodiales	Cladosporiaceae	Cladosporium	Colletotrichum_truncatum	
-AG-MB15 C.dest1-PYROFUS-EF1-F1.H04	Capnodiales	Glomerellaceae	Colletotrichum	Colletotrichum_tabacum	
-AG-MB15 C.dest2-PYROFUS-EF1-F1.A05	Capnodiales	Glomerellaceae	Colletotrichum	Colletotrichum_vignae	
-AG-MB15 C.hig7-PYROFUS-EF1-F1.G04	Capnodiales	Glomerellaceae	Colletotrichum	Colletotrichum_higginsianum	
-AG-MB15 C.lag-PYROFUS F2.D04	Capnodiales	Glomerellaceae	Colletotrichum	Colletotrichum_orbiculare	
-AG-MB15 C.lini-PYROFUS F2.E04	Capnodiales	Glomerellaceae	Colletotrichum	Colletotrichum_lini	
-AG-MB15 C.tru-PYROFUS-EF1-F1.D05	Capnodiales	Glomerellaceae	Colletotrichum	Colletotrichum_pisicola	
-AG-MB15 M.majus-PYROFUS-EF1-F1.F05	Xylariales	Glomerellaceae	Microdochium	Microdochium_majus	
+AG-MB15 C.cap-PYROFUS F2.F04	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_truncatum	
+AG-MB15 C.clado-PYROFUS F2.D03	Capnodiales	Cladosporiaceae	Cladosporium	Unknown	
+AG-MB15 C.dest1-PYROFUS-EF1-F1.H04	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_tabacum	
+AG-MB15 C.dest2-PYROFUS-EF1-F1.A05	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_vignae	
+AG-MB15 C.hig7-PYROFUS-EF1-F1.G04	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_higginsianum	
+AG-MB15 C.lag-PYROFUS F2.D04	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_orbiculare	
+AG-MB15 C.lini-PYROFUS F2.E04	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_lini	
+AG-MB15 C.tru-PYROFUS-EF1-F1.D05	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_pisicola	
+AG-MB15 M.majus-PYROFUS-EF1-F1.F05	Xylariales	Unknown	Microdochium	Microdochium_majus	
 AG-MB15 N.min-PYROFUS F2.G01	Helotiales	Dermateaceae	Naevala	Naevala_minutissima	
 AG-MB15 R.colo-PYROFUS-EF1-F1.G05	Capnodiales	Mycosphaerellaceae	Ramularia	Ramularia_collo-cygni	
 AG-MB15 S.scle1-PYROFUS-EF1-F1.H05	Helotiales	Sclerotiniaceae	Sclerotinia	Sclerotinia_sclerotiorum	
-AG-MB15 Z.triS1-PYROFUS-EF1-F1.E06	Helotiales	Sclerotiniaceae	Zymoseptoria	Zymoseptoria_pseudotritici	
-AG-MB15 Z.trit1-PYROFUS-EF1-F1.F06	Helotiales	Sclerotiniaceae	Zymoseptoria	Zymoseptoria_tritici	
-AG-MB15 Z.trit2-PYROFUS-EF1-F1.G06	Helotiales	Sclerotiniaceae	Zymoseptoria	Zymoseptoria_tritici	
-AG-MB15 Z.trit3-PYROFUS F2.G08	Helotiales	Sclerotiniaceae	Zymoseptoria	Zymoseptoria_tritici	
-AG-MB15 Z.trit4-PYROFUS-EF1-F1.H06	Helotiales	Sclerotiniaceae	Zymoseptoria	Zymoseptoria_tritici	
+AG-MB15 Z.triS1-PYROFUS-EF1-F1.E06	Unknown	Unknown	Zymoseptoria	Zymoseptoria_pseudotritici	
+AG-MB15 Z.trit1-PYROFUS-EF1-F1.F06	Unknown	Unknown	Zymoseptoria	Zymoseptoria_tritici	
+AG-MB15 Z.trit2-PYROFUS-EF1-F1.G06	Unknown	Unknown	Zymoseptoria	Zymoseptoria_tritici	
+AG-MB15 Z.trit3-PYROFUS F2.G08	Unknown	Unknown	Zymoseptoria	Zymoseptoria_tritici	
+AG-MB15 Z.trit4-PYROFUS-EF1-F1.H06	Unknown	Unknown	Zymoseptoria	Zymoseptoria_tritici	
 AG-19-ssQ-Feq51-PYROFUS-F2.E03	Hypocreales	Nectriaceae	Fusarium	Fusarium_equiseti	
-AG-Mnn08N58-PYROFUS-F2.A02	Xylariales	Nectriaceae	Microdochium	Microdochium_nivale	
-AG-MTK0025-PYROFUS-F2.B02	Xylariales	Nectriaceae	Microdochium	Microdochium_majus	
+AG-Mnn08N58-PYROFUS-F2.A02	Xylariales	Unknown	Microdochium	Microdochium_nivale	
+AG-MTK0025-PYROFUS-F2.B02	Xylariales	Unknown	Microdochium	Microdochium_majus	
 AG-MTK0070-PYROFUS-F2.E01	Hypocreales	Nectriaceae	Fusarium	Fusarium_avenaceum	
 AG-MTK0081-PYROFUS-EF1-F1.F02	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora_nodorum	
 AG-SE15031-PYROFUS-EF1-F1.E07	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	Phaeosphaeria_avenaria_f.sp._avenaria	
@@ -145,8 +145,8 @@ AG-Ss81-PYROFUS-EF1-F1.A01	Helotiales	Sclerotiniaceae	Sclerotinia	Sclerotinia_sc
 AG-FOR4-EF1FusaBiogerF.D02	Hypocreales	Nectriaceae	Fusarium	Fusarium_oxysporum	
 G2_FT31_EF1alpha_EF1BIOF	Hypocreales	Nectriaceae	Fusarium	Fusarium_tricinctum	
 AG-FMO14-EF1FusaBiogerF.G01	Hypocreales	Nectriaceae	Fusarium	Fusarium_pseudonygamai	
-AG-MB15 C.glo-PYROFUS F2.F03	Hypocreales	Glomerellaceae	Colletotrichum	Colletotrichum_aeschynomenes	
-AG-MTK0030-PYROFUS-F2.C01	Hypocreales	Glomerellaceae	Zymoseptoria	Zymoseptoria_tritici	
+AG-MB15 C.glo-PYROFUS F2.F03	Unknown	Glomerellaceae	Colletotrichum	Colletotrichum_aeschynomenes	
+AG-MTK0030-PYROFUS-F2.C01	Unknown	Unknown	Zymoseptoria	Zymoseptoria_tritici	
 AG-MTK0049-PYROFUS-F2.D01	Capnodiales	Mycosphaerellaceae	Pseudocercosporella	Pseudocercosporella_herpotrichoïdes	
 AG-MTK0055-PYROFUS-F2.A01	Hypocreales	Nectriaceae	Fusarium	Fusarium_culmorum	
 AG-Fc28-PYROFUS-EF1-F1.G06	Hypocreales	Nectriaceae	Fusarium	Fusarium_culmorum	
