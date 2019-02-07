@@ -38,7 +38,7 @@ Three files of data can be downloaded
 * French_Guiana_Trees_trnH.dissw: distance file of same samples    
 
 One file of supplementary data can be downloaded
-* Molecular_Atlas_paper_supplementary_1.xlsx: some characteristics per species used in data analysis, as well as the number of individuals per halotype within each species.
+* Molecular_Atlas_paper_supplementary_1.xlsx: some characteristics per species used in data analysis, as well as the number of individuals per haplotype within each species.
 
 
 
