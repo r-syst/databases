@@ -31,11 +31,14 @@ contact: alain.franc@inra.fr
 
 Reference: Caron & al. (under review)
 
-Three files can be downloaded 
+Three files of data can be downloaded 
 
 * French_Guiana_Trees_trnH.fas: fasta file of sequences of marker trnH 
 * French_Guiana_Trees_trnH.char: character file of same samples
-* French_Guiana_Trees_trnH.dissw: distance file of same samples
+* French_Guiana_Trees_trnH.dissw: distance file of same samples    
+
+One file of supplementary data can be downloaded
+* Molecular_Atlas_paper_supplementary_1.xlsx: some characteristics per species used in data analysis, as well as the number of individuals per halotype within each species.
 
 
 
